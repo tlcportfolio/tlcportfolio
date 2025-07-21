@@ -1,4 +1,4 @@
-# 🤖 Terry Cao – Intelligent Automation/RPA Software Engineer Portfolio
+# 🤖 Hi 👋, I'm Terry Cao – Intelligent Automation/RPA Software Engineer Portfolio
 
 Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ years of experience delivering intelligent automation solutions across government agencies and corporate environments. This repository is a curated collection of my most impactful UiPath-based projects demonstrating end-to-end automation, scalable architecture, and business value generation.
 
@@ -14,14 +14,6 @@ Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ yea
 - 🧩 Skilled in REFramework, Orchestrator, and DevOps pipeline integration
 - 🏆 Track record of delivering solutions that reduce manual labor by **100,000+ hours annually**
 - 🧑‍🏫 Trainer and mentor for 40+ CMS CoE developers and teams
-
----
-<h1 align="center">Hi 👋, I'm Terry</h1>
-<h3 align="center">A passionate frontend developer from US</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
