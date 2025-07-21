@@ -13,14 +13,14 @@ Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ yea
 - 🧠 Expert in both attended and unattended automation using UiPath, Automation Anywhere, Blue Prism
 - 🧩 Skilled in REFramework, Orchestrator, and DevOps pipeline integration
 - 🏆 Track record of delivering solutions that reduce manual labor by **100,000+ hours annually**
-- 🧑‍🏫 Trainer and mentor for 40+ CMS CoE developers and teams
+- 🧑‍🏫 Trainer and mentor for 3+ teams
 
 ## 🧰 Skills Snapshot
 
 **Languages & Scripting**: Python, .Net, LINQ, SQL, VBScript, VBA, HTML, JavaScript  
 **RPA Tools**: UiPath, Automation Anywhere, Blue Prism, Power Automate  
-**Platforms**: Orchestrator, REFramework, Power Platform, Document Understanding  
-**Databases**: SQL Server, Oracle, Access, Power BI  
+**Platforms**: Orchestrator, REFramework, Power Platform 
+**Databases**: SQL Server, Oracle, Access
 **DevOps**: Docker, Git, CI/CD, GitHub  
 **Other**: OCR, API Integration, Alteryx, VBA Templates, PIV Processing
 
