@@ -1,4 +1,4 @@
-# 🤖 Terry Cao – UiPath RPA Developer Portfolio
+# 🤖 Terry Cao – Intelligent Automation/RPA Software Engineer Portfolio
 
 Welcome to my RPA Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ years of experience delivering intelligent automation solutions across government agencies and corporate environments. This repository is a curated collection of my most impactful UiPath-based projects demonstrating end-to-end automation, scalable architecture, and business value generation.
 
@@ -57,9 +57,7 @@ Welcome to my RPA Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+
 
 ```
 📂 terrylamcao-rpa-portfolio/
-├── CMS_OPOLE_Bankruptcy_Bots/
-├── CMS_OSFLO_Unattended/
-├── HolidayBot/
+├── Bankruptcy_Bots/
 ├── ProcessMigration_Demo/
 ├── REFramework_Template/
 └── README.md
