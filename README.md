@@ -28,6 +28,7 @@ Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ yea
 ---
 
 ## 🚀 Featured Projects
+**Note: Due to confidentiality and employer agreements, source code is not included in this repository. Please feel free to contact me directly if you'd like to review code samples or discuss the technical details of any project.**
 
 ### 🔹 Bankruptcy Bot Series
 **Tech Stack**: UiPath, .Net, SQL, LINQ, API  
@@ -53,8 +54,6 @@ Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ yea
 ---
 
 ## 🧱 Repository Structure
-**Note: Due to confidentiality and employer agreements, source code is not included in this repository. Please feel free to contact me directly if you'd like to review code samples or discuss the technical details of any project.**
-
 ```
 📂 terrylamcao-rpa-portfolio/
 ├── Bankruptcy_Bots/
