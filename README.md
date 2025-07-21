@@ -22,7 +22,7 @@ Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ yea
 **Platforms**: Orchestrator, REFramework, Power Platform 
 **Databases**: SQL Server, Oracle, Access
 **DevOps**: Docker, Git, CI/CD, GitHub  
-**Other**: OCR, API Integration, Alteryx, VBA Templates, PIV Processing
+**Other**: OCR, API Integration, Alteryx, VBA Templates
 
 ---
 
