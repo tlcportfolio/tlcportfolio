@@ -1,4 +1,4 @@
-# 🤖 Hi there👋, I'm Terry Cao - An AI powered Intelligent Automation/RPA Software Engineer
+# 🤖 Hi there👋, I'm Terry Cao - An AI Powered Intelligent Automation/RPA Software Engineer
 
 Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ years of experience delivering intelligent automation solutions across government agencies and corporate environments. This repository is a curated collection of my most impactful UiPath-based projects demonstrating end-to-end automation, scalable architecture, and business value generation.
 
