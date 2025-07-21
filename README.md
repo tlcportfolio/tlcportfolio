@@ -39,7 +39,7 @@ Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ yea
 
 ## 🚀 Featured Projects
 
-### 🔹 CMS OPOLE Bankruptcy Bot Series (2024)
+### 🔹 Bankruptcy Bot Series
 **Tech Stack**: UiPath, .Net, SQL, LINQ, API  
 - Automated processing of 360K–500K bankruptcy cases annually  
 - Achieved 150% ROI through settlement optimization  
