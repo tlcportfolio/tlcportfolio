@@ -3,7 +3,7 @@
 Welcome to my Portfolio! I’m **Terry Cao**, a Senior RPA Developer with 7+ years of experience delivering intelligent automation solutions across government agencies and corporate environments. This repository is a curated collection of my most impactful UiPath-based projects demonstrating end-to-end automation, scalable architecture, and business value generation.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TerryCao-blue)](https://linkedin.com/in/terrylamcao)  
-📧 terrylamcao@gmail.com • 📍 Houston, TX • [GitHub](https://github.com/terrylamcao)
+📧 terrylamcao@gmail.com • 📍 Houston, TX • [GitHub](https://github.com/tlcportfolio)
 
 ---
 
@@ -76,8 +76,7 @@ Each folder contains:
 
 ## 📬 Let's Connect
 
-I’m open to collaborations, freelance opportunities, and leadership roles in automation.
-
+I’m open to collaborations, freelance opportunities, and leadership roles in AI/automation.
 - [LinkedIn](https://linkedin.com/in/terrylamcao)
 - [GitHub](https://github.com/terrylamcao)
 - 📧 terrylamcao@gmail.com
