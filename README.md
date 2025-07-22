@@ -70,7 +70,7 @@ Each folder contains:
 ## 🎓 Education
 
 - 🎓 **M.C.I.T., University of Pennsylvania** (Anticipated 2026)  
-- 🎓 **BBA, Management Information Systems, University of Houston** (2018)
+- 🎓 **BBA, Management Information Systems, University of Houston**
 
 ---
 
